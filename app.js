@@ -1,3 +1,5 @@
+import advices from './data.js';
+
 const hamburgerBtn = document.getElementById('hamburgerBtn');
 const navBar = document.getElementById('navBar');
 
